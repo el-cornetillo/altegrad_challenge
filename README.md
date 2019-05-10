@@ -1,7 +1,6 @@
 ## altegrad_challenge
 
 My solution for the altegrad challenge (January 2017)
-https://www.kaggle.com/c/altegrad-challenge-fall-17
 
 I got 2nd on the private LB (Logloss : 0.13064).
 
